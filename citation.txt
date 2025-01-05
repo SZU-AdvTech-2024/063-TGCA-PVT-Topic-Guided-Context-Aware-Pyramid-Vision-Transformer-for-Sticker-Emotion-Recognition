@@ -1,0 +1,7 @@
+@inproceedings{REPO063,
+    author = "Chen, Jian and Wang, Wei and Hu, Yuzhu and Chen, Junxin and Liu, Han and Hu, Xiping",
+    booktitle = "ACM Multimedia",
+    title = "{TGCA-PVT: Topic-Guided Context-Aware Pyramid Vision Transformer for Sticker Emotion Recognition}",
+    url = "https://api.semanticscholar.org/CorpusID:273640954",
+    year = "2024"
+}
