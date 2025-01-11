@@ -1,0 +1,1 @@
+数据集下载链接：https://github.com/nku-shengzheliu/SER30K
